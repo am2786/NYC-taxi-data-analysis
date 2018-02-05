@@ -40,7 +40,7 @@ def neighborhood_name_adder(data, geo_data, column_longitude, column_latitude, n
     
     return(data)
 
-# An example of how to run this code is below. The csv file I use in this example 
+# An example of how to run this code is below. A link to the csv file I use in this example 
 # \ is posted in this repository, as is the GeoJson file `NY_neighborhoods.geojson`
 
 taxi_trips = dd.read_csv('Taxi_green_2013.csv')  # loading in data using dask
