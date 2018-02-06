@@ -5,7 +5,7 @@ This repo provides code to download, process, and analyze data for NYC 's taxi d
 
 ## coordinate-neighborhood mapping
 
-Code and GEoJson file needed to map taxi trip coordinates to neighborhoods. 
+Code and GeoJson file needed to map taxi trip coordinates to neighborhoods. 
 
 
 ## taxi data
@@ -15,7 +15,7 @@ Folder containing links to all of the taxi data sets used for this project.
 
 ## 'Section' jupyter notebooks
 
-Each notebook with 'Section' in the title contains the code used for that specific section of the post ["Where ya headed"? Analyzing Over 450 Million Taxi Trips Using Hadoop and PySpark](https://dailydatablog.wordpress.com/2018/01/27/where-ya-headed-analyzing-over-400-million-taxi-trips-using-hadoop-and-pyspark/). 
+Each jupyter notebook with 'Section' in the title contains the code used for that specific section of the post ["Where ya headed"? Analyzing Over 450 Million Taxi Trips Using Hadoop and PySpark](https://dailydatablog.wordpress.com/2018/01/27/where-ya-headed-analyzing-over-400-million-taxi-trips-using-hadoop-and-pyspark/). 
 
 - **Sections 4 & 5.ipynb:** Taxi ridership trends. How much will taxi ridership change in the future? 
 - **Section 6.ipynb:** Which neighborhoods give taxis the most business?
