@@ -9,7 +9,7 @@ This repo provides code to download, process, and analyze data for NYC 's taxi d
 
 ## 'Section' jupyter notebooks
 
-- **Sections 4 & 5.ipynb:** Taxi ridership trends.How much will taxi ridership change in the future? 
+- **Sections 4 & 5.ipynb:** Taxi ridership trends. How much will taxi ridership change in the future? 
 - **Section 6.ipynb:** Which neighborhoods give taxis the most business?
 - **Section 7.ipynb:** How do rides change on weekdays vs. weekends?
 - **Section 8.ipynb:** What factors determine how much a customer is going to tip?
