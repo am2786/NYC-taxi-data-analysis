@@ -3,12 +3,12 @@ Scripts in support of this post: ["Where ya headed"? Analyzing Over 450 Million 
 
 This repo provides code to download, process, and analyze data for NYC 's taxi data. The data is stored using Hadoop Distributed File Systems (HDFS) on Amazon EC2 instances. A great guide on how to set this up yourself can be found [here](http://www.novixys.com/blog/setup-apache-hadoop-cluster-aws-ec2/). I plan to make a post soon on how to run PySpark in tandem with HDFS however, this post will be in video format. All of the code is written in PySpark so if you're unfamiliar with the package a tutorial is [here](https://www.analyticsvidhya.com/blog/2016/10/spark-dataframe-and-operations/).
 
-## coordinate-neighborhood mapping
+## Coordinate-neighborhood mapping
 
 Code and GeoJson file needed to map taxi trip coordinates to neighborhoods. 
 
 
-## taxi data
+## Taxi data
 
 Folder containing links to all of the taxi data sets used for this project. 
 
